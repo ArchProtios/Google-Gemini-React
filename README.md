@@ -1,7 +1,7 @@
 # Google Gemini 
 ![Screenshot 2024-03-15 223117](https://github.com/ArchProtios/Google-Gemini-React/assets/99127122/9e543350-b56e-4c46-ad20-17d4a31c6572)
 
-# working menu button using useState
+# working menu button using useState hool
 ![Screenshot 2024-03-15 223212](https://github.com/ArchProtios/Google-Gemini-React/assets/99127122/38a32a70-28cc-42c2-8fb7-142c02cc03b4)
 
 # Getting Started with Create React App
